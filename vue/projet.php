@@ -13,8 +13,8 @@
                 <div class="flex flex-col items-end gap-2">
                     <span class="text-[10px] font-mono text-blue-400 border border-blue-400/30 px-2 py-1 rounded uppercase font-bold">Cadre Scolaire</span>
                     <div class="flex gap-2">
-                        <a href="https://git.s11.fr/24morand/Cantin-o" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all flex items-center gap-1 uppercase font-bold">
-                            GitLab
+                        <a href="https://github.com/KazumaMrd/Cantin-o" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all flex items-center gap-1 uppercase font-bold">
+                            GitHub
                         </a>
                         <a href="fichiers/cantineo.apk" download class="text-[9px] text-white bg-green-600 px-2 py-1 rounded hover:bg-green-700 transition-colors flex items-center gap-1 uppercase font-black shadow-[0_0_10px_rgba(0,255,0,0.3)]">
                             APK
@@ -32,8 +32,8 @@
                 <div class="mt-4 animate-fadeIn space-y-3 text-gray-300 text-xs">
                     <p>Développement sous Quasar Framework et gestion de lettrage comptable automatisé.</p>
                     <div class="flex flex-wrap gap-2">
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">QUASAR</span>
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">SQLITE</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">QUASAR</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">SQLITE</span>
                     </div>
                 </div>
             </details>
@@ -45,10 +45,10 @@
                 <div class="flex flex-col items-end gap-2">
                     <span class="text-[10px] font-mono text-blue-400 border border-blue-400/30 px-2 py-1 rounded uppercase font-bold">Cadre Scolaire</span>
                     <div class="flex gap-2">
-                        <a href="https://git.s11.fr/24morand/roulette" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all flex items-center gap-1 uppercase font-bold">
-                            GitLab
+                        <a href="https://github.com/KazumaMrd/roulette" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all flex items-center gap-1 uppercase font-bold">
+                            GitHub
                         </a>
-                        <a href="http://roulette.page.gd" target="_blank" class="text-[9px] text-white bg-red-600 px-2 py-1 rounded hover:bg-red-700 transition-colors uppercase font-black">Live</a>
+                        <a href="http://roulette.page.gd" target="_blank" class="text-[9px] text-white bg-red-600 px-2 py-1 rounded hover:bg-red-700 transition-colors uppercase font-black px-3">Live</a>
                     </div>
                 </div>
             </div>
@@ -62,8 +62,8 @@
                 <div class="mt-4 animate-fadeIn space-y-3 text-gray-300 text-xs">
                     <p>Architecture MVC en PHP, sécurisation via PDO et algorithme d'exclusion dynamique.</p>
                     <div class="flex flex-wrap gap-2">
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">PHP</span>
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">MARIADB</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">PHP</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">MARIADB</span>
                     </div>
                 </div>
             </details>
@@ -74,7 +74,7 @@
                 <svg class="w-10 h-10 text-[#ff0000]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"/></svg>
                 <div class="flex flex-col items-end gap-2">
                     <span class="text-[10px] font-mono text-[#ff0000] border border-[#ff0000] px-2 py-1 rounded font-bold uppercase animate-pulse">Projet Personnel</span>
-                    <a href="https://git.s11.fr/24morand/Portfolio" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all uppercase font-bold">GitLab</a>
+                    <a href="https://github.com/KazumaMrd/Portfolio" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all uppercase font-bold">GitHub</a>
                 </div>
             </div>
             <h4 class="text-white group-hover:text-[#ff0000] font-bold text-xl uppercase tracking-tight transition-colors mb-4">Portfolio Interactif</h4>
@@ -87,8 +87,8 @@
                 <div class="mt-4 animate-fadeIn space-y-3 text-gray-300 text-xs">
                     <p>Développé avec Tailwind CSS pour un design responsive et moderne.</p>
                     <div class="flex flex-wrap gap-2">
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">TAILWIND</span>
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">JS CANVAS</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">TAILWIND</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">JS CANVAS</span>
                     </div>
                 </div>
             </details>
@@ -112,8 +112,8 @@
                 <div class="mt-4 animate-fadeIn space-y-3 text-gray-300 text-xs">
                     <p>Utilisation de Strapi (Backend) et Vue.js 3 pour le Frontend. Déploiement conteneurisé.</p>
                     <div class="flex flex-wrap gap-2">
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">STRAPI</span>
-                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30">DOCKER</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">STRAPI</span>
+                        <span class="bg-red-950/20 text-[#ff0000] px-2 py-1 rounded border border-red-900/30 font-bold">DOCKER</span>
                     </div>
                 </div>
             </details>
