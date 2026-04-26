@@ -25,7 +25,7 @@
                 <a href="#parcours" class="hover:text-red-600 transition-colors">Parcours</a>
                 <a href="#projet" class="hover:text-red-600 transition-colors">Projet</a>
                 <a href="#competences" class="hover:text-red-600 transition-colors">Compétences</a>
-                <a href="#contact" class="hover:text-red-600 transition-colors">Contact</a>
+                <a href="#certifications" class="hover:text-red-600 transition-colors">Certifications</a>
             </div>
         </div>
     </nav>
