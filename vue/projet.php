@@ -16,7 +16,7 @@
                         <a href="https://github.com/KazumaMrd/Cantin-o" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all flex items-center gap-1 uppercase font-bold">
                             GitHub
                         </a>
-                        <a href="fichiers/cantineo.apk" download class="text-[9px] text-white bg-green-600 px-2 py-1 rounded hover:bg-green-700 transition-colors flex items-center gap-1 uppercase font-black shadow-[0_0_10px_rgba(0,255,0,0.3)]">
+                        <a href="https://github.com/KazumaMrd/Portfolio/raw/main/fichiers/cantineo.apk" download class="text-[9px] text-white bg-green-600 px-2 py-1 rounded hover:bg-green-700 transition-colors flex items-center gap-1 uppercase font-black shadow-[0_0_10px_rgba(0,255,0,0.3)]">
                             APK
                         </a>
                     </div>
