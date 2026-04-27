@@ -3,7 +3,7 @@
         <span class="text-[#ff0000] filter drop-shadow-[0_0_8px_rgba(255,0,0,0.8)]">P</span>rojets
     </h2>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 relative z-20">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8 relative z-20">
         
         <div class="bg-[#080000] backdrop-blur-md border border-white/10 p-8 rounded-xl group hover:border-[#ff0000] transition-all duration-300 shadow-2xl flex flex-col border-red-500/20">
             <div class="flex justify-between items-start mb-6">
@@ -99,7 +99,7 @@
                 <svg class="w-10 h-10 text-[#ff0000]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
                 <div class="flex flex-col items-end gap-2">
                     <span class="text-[10px] font-mono text-blue-400 border border-blue-400/30 px-2 py-1 rounded uppercase font-bold">Cadre Scolaire</span>
-                    <a href="https://git.s11.fr/24gajecki/Projet-Success" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all uppercase font-bold">Code Source</a>
+                    <a href="https://github.com/KazumaMrd/Projet-Success" target="_blank" class="text-[9px] text-gray-300 border border-white/20 px-2 py-1 rounded hover:bg-white hover:text-black transition-all uppercase font-bold">GitHub</a>
                 </div>
             </div>
             <h4 class="text-white group-hover:text-[#ff0000] font-bold text-xl uppercase tracking-tight transition-colors mb-4">Plateforme SUCCESS</h4>
