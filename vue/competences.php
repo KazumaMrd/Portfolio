@@ -4,7 +4,6 @@
     </h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8 relative z-20 mb-12">
-        
         <div class="bg-[#080000] backdrop-blur-md border border-white/10 p-8 rounded-xl shadow-2xl group transition-all duration-500 hover:border-[#ff0000]/50">
             <div class="flex items-center gap-4 mb-8 border-b border-white/5 pb-4">
                 <svg class="w-8 h-8 text-gray-500 group-hover:text-[#ff0000] transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -55,11 +54,11 @@
                     </svg>
                     <div>
                         <h3 class="text-2xl font-black text-white uppercase tracking-widest">Tableau de Synthèse des Réalisations</h3>
-                        <p class="text-[#ff0000] text-[10px] font-bold uppercase tracking-[0.3em] mt-1">Épreuve E5 - BTS SIO</p>
+                        <p class="text-[#ff0000] text-[10px] font-bold uppercase tracking-[0.3em] mt-1">Épreuve E4 - BTS SIO</p>
                     </div>
                 </div>
 
-                <a href="image/TCompetence.pdf" download="TCompetence_MORAND_Loucas.pdf" 
+                <a href="image/TCompetences.pdf" download="TCompetences_MORAND_Loucas.pdf" 
                    class="flex items-center justify-center gap-3 px-8 py-4 bg-red-950/20 border border-red-900/40 text-[#ff0000] rounded-full font-black text-[10px] uppercase tracking-widest transition-all hover:bg-[#ff0000] hover:text-white">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
@@ -69,17 +68,17 @@
             </div>
             
             <div class="w-full rounded-lg bg-black/40 border border-white/5 overflow-hidden shadow-inner">
-                <object data="image/TCompetence.pdf" type="application/pdf" class="w-full h-[800px]">
+                <object data="image/TCompetences.pdf" type="application/pdf" class="w-full h-[800px]">
                     <div class="flex flex-col items-center justify-center py-20 text-center">
                         <p class="text-gray-500 font-mono text-sm mb-6 uppercase tracking-widest">L'aperçu ne peut pas s'afficher ici.</p>
-                        <a href="image/TCompetence.pdf" target="_blank" class="px-6 py-3 bg-white text-black font-black uppercase text-xs rounded">Ouvrir dans un nouvel onglet</a>
+                        <a href="image/TCompetences.pdf" target="_blank" class="px-6 py-3 bg-white text-black font-black uppercase text-xs rounded">Ouvrir le nouveau tableau</a>
                     </div>
                 </object>
             </div>
             
             <div class="mt-6 flex justify-between items-center">
-                <p class="text-gray-600 text-[10px] font-mono uppercase tracking-widest">Visualisation interactive du tableau de compétences</p>
-                <span class="text-[#ff0000] text-[10px] font-black animate-pulse uppercase tracking-widest">Interactif</span>
+                <p class="text-gray-600 text-[10px] font-mono uppercase tracking-widest">Visualisation interactive du nouveau tableau de compétences</p>
+                <span class="text-[#ff0000] text-[10px] font-black animate-pulse uppercase tracking-widest">Mis à jour</span>
             </div>
         </div>
     </div>
